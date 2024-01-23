@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright © Step Into Tech, CIC. All Rights Reserved.
+Copyright © Step Into Tech CIC. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
